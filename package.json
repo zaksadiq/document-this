@@ -1,0 +1,16 @@
+{
+  "name": "document-this",
+  "version": "1.0.0",
+  "description": "Slack bot to aide with capturing and documentating answers to threads",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Zak Sadiq",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/events-api": "^2.3.4",
+    "@slack/web-api": "^5.13.0",
+    "slackbots": "^1.2.0"
+  }
+}
