@@ -4,3 +4,4 @@
 ## Comment Copied to Documentation Channel
 <img width="1081" alt="Screenshot 2024-02-21 at 23 08 19" src="https://github.com/user-attachments/assets/de9fdbb1-c490-4cb1-8c0b-59cc0c5dfce0">
 
+ Note: Made obsolete by 'React-ji Chaneller' included in new versions of Slack.
